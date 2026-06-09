@@ -1,2 +1,2 @@
 # Proconsult-Power-Plateforme
-Ce dépôt contient mes projet power plateforme
+Ce dépôt contient mes projets power plateforme
